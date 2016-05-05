@@ -1,0 +1,10 @@
+=======================================================================
+Project: LICENTIA © 2016 WholeSoft and it's creators.
+=======================================================================
+	GAME DEV TEAM:
+		WholeGamer			-			Game Development
+		Jettblack			-			Mapping
+		ADos				-			Ideas, Game script, Voice.
+	
+	MISCELLANEOUS:
+		junkohanhero.com	-			Main Menu Font (Through the night)
